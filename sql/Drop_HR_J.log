@@ -1,0 +1,33 @@
+Input types
+DROP TYPE ty_emp_in_arr
+*
+ERROR at line 1:
+ORA-04043: object TY_EMP_IN_ARR does not exist 
+
+
+DROP TYPE ty_emp_in_obj
+*
+ERROR at line 1:
+ORA-04043: object TY_EMP_IN_OBJ does not exist 
+
+
+Output types
+DROP TYPE ty_emp_out_arr
+*
+ERROR at line 1:
+ORA-04043: object TY_EMP_OUT_ARR does not exist 
+
+
+DROP TYPE ty_emp_out_obj
+*
+ERROR at line 1:
+ORA-04043: object TY_EMP_OUT_OBJ does not exist 
+
+
+Package
+DROP PACKAGE Emp_WS
+*
+ERROR at line 1:
+ORA-04043: object EMP_WS does not exist 
+
+
