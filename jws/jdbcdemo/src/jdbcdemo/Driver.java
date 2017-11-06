@@ -4,13 +4,13 @@ Name:        Driver.java
 Description: This is a Java driver script for Brendan's HR demo web service procedure. It is
              designed to serve as a template for other web service procedures to allow a database
              developer to do a JDBC integration test easily, and can also be used as a starting point
-			 for Java development.
+             for Java development.
 
              The template procedure takes an input array of objects and has an output array of 
              objects. It is easy to update for any named object and array types, procedure and
              Oracle connection. Any other signature types would need additional changes.
 
-	     See 'A Template Script for JDBC Calling of Oracle Procedures with Object Array Parameters'
+         See 'A Template Script for JDBC Calling of Oracle Procedures with Object Array Parameters'
              http://aprogrammerwrites.eu/?p=1676
                                                                                
 Modification History
