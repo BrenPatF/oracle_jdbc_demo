@@ -40,3 +40,9 @@ From Eclipse, just do 'Run As Java Application' on the file Driver.java. The out
 	Connected...
 	Record 1: 209/TWO HUNDRED NINE
 	Record 2: 210/TWO HUNDRED TEN
+
+Install demo video
+==================
+Play:
+
+	jdbc_demo_z4Mc7R7V4f.mp4
